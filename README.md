@@ -1,4 +1,4 @@
 # Excel-Password
-Rapid Excel backdoor to unlock password-protected workbooks
+Rapid Excel backdoor for unlocking password-protected workbooks.
 
-Paste this code into Excel Visual Basic for Applications and press play to run.
+After opening the target workbook, paste this code into Excel Visual Basic for Applications and press play to run macro.
